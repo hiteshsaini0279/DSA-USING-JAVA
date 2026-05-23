@@ -12,6 +12,6 @@ public class linearSearch{
     public static void main(String[]args){
         int nums[]={3,5,1,4,8,0,7,23,6,};
         int key=0;
-        System.out.println("our kke index :"+linearsearch(nums,key));
+        System.out.println("our key index :"+linearsearch(nums,key));
     }
 }
