@@ -20,23 +20,6 @@ public class subarray {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 sub Arrays of array={2,4,6,8,10}
 2
